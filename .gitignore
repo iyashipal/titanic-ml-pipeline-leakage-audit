@@ -1,0 +1,10 @@
+# Output files
+titanic_submission.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
